@@ -1,0 +1,5 @@
+﻿  Bancomat.cpp
+  ConsoleApplication1.cpp
+  Создание кода...
+D:\C++\OOP\ConsoleApplication1\ConsoleApplication1.cpp(70,21): warning C4101: e: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> D:\C++\OOP\ConsoleApplication1\Debug\ConsoleApplication1.exe
